@@ -10,3 +10,8 @@
 [Rendergraphs and how to implement one](https://poniesandlight.co.uk/reflect/island_rendergraph_1/)
 
 [Vulkan Render-Queues and how they Sync](https://poniesandlight.co.uk/reflect/island_rendergraph_2/)
+
+
+### Rasterizer
+
+[A fast and precise triangle rasterizer](https://kristoffer-dyrkorn.github.io/triangle-rasterizer/)
