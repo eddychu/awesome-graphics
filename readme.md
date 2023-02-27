@@ -27,3 +27,7 @@
 [Compiler Engineer Path](http://dmitrysoshnikov.com/courses/compiler-engineer-path/)
 
 [Introduction to Compilers and Language Design](https://www3.nd.edu/~dthain/compilerbook/)
+
+### Others
+
+[Correctness](https://cs3110.github.io/textbook/chapters/correctness/intro.html)
