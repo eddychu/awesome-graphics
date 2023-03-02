@@ -30,6 +30,8 @@
 
 [CS 6120: Advanced Compilers](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 
+[Essentials of Compilation](https://iucompilercourse.github.io/IU-Fall-2022/)
+
 ### Others
 
 [Correctness](https://cs3110.github.io/textbook/chapters/correctness/intro.html)
