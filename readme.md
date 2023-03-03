@@ -35,3 +35,5 @@
 ### Others
 
 [Correctness](https://cs3110.github.io/textbook/chapters/correctness/intro.html)
+
+[font glyph rendering](http://www.fifi.org/doc/libttf2/docs/glyphs.htm)
